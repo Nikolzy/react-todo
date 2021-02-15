@@ -1,5 +1,5 @@
 ## React Todo App 
-[Deploy link](react-hooks-todo-ef3bd.web.app)
+[Deploy link](https://react-hooks-todo-ef3bd.firebaseapp.com)
 
 ## Getting Started with Create React App
 
